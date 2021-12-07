@@ -4,7 +4,7 @@ Python 3.7
 
 Only uses the standard library. No external packages are needed.
 
-Clone the repo and '''python3 cardgame.py''' to play.
+Clone the repo and `python3 cardgame.py` to play.
 
 Feedback is appreciated.
 
